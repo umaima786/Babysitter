@@ -2,7 +2,7 @@
   "name": "Babysitter",
   "version": "1.0.0",
   "scripts": {
-    "start": "npm start"
+    "start": "react-scripts start"
   },
   "dependencies": {
     // your dependencies
